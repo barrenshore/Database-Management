@@ -14,10 +14,9 @@ Progress 上課進程:
 1. DB system architecture
 2. Relation model
 3. introduction to SQL
-5. ER model, EER, mapping
-6. File storage, indexing
-7. Normalization
-8. 
+4. ER model, EER, mapping
+5. File storage, indexing
+6. Normalization 
 
 HW 作業內容:
 ===
