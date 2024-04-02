@@ -1,4 +1,4 @@
-About this course 課程介紹:
+About this course:
 ===
 Database Management 資料庫管理
 
@@ -9,7 +9,7 @@ implementing database systems. The course stresses the fundamentals of database 
 design, the languages and facilities provided by database management systems, and system 
 implementation techniques. 
 
-Progress 上課進程:
+Progress:
 ===
 1. DB system architecture
 2. Relation model
@@ -18,7 +18,7 @@ Progress 上課進程:
 5. File storage, indexing
 6. Normalization 
 
-HW 作業內容:
+Homework:
 ===
 HW1: php(self-study)
 
@@ -29,9 +29,9 @@ HW3: Login system based on HW2
 Final Project: DB system of patients' records
 
 
-Grades 分數:
+Grades:
 ===
-Grades: Midterm (35%), Homework & Project (25%), Final (35%), Participation (5%)
+Midterm (35%), Homework & Project (25%), Final (35%), Participation (5%)
 
 Final score: A+
 
