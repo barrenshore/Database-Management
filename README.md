@@ -17,6 +17,7 @@ Progress 上課進程:
 6. File storage, indexing
 7. Normalization
 
+
 HW 作業內容:
 ===
 HW1: php(self-study)
@@ -24,7 +25,9 @@ HW2: CV web page
 HW3: Login system based on HW2
 Final Project: DB system of patients' records
 
+
 Grades 分數:
 ===
 Grades: Midterm (35%), Homework & Project (25%), Final (35%), Participation (5%)
 Final score: A+
+
