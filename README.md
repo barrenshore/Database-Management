@@ -26,7 +26,7 @@ HW2: CV web page
 
 HW3: Login system based on HW2
 
-Final Project: DB system of patients' records
+Final Project: Health Information Management System
 
 
 Grades
@@ -35,9 +35,11 @@ Midterm (35%), Homework & Project (25%), Final (35%), Participation (5%)
 
 Final score: A+
 
-身體健康資料管理系統
-Health Care DBMS
+
+Health Information Management System
 ===
+Final Project: Health Information Management System
+
 身體健康資料管理系統
 ### Motivation
 
