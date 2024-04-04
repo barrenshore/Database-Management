@@ -57,4 +57,21 @@ DB Final Project: 身體健康資料管理系統 Health Information Management S
 説明 ：這個功能允許醫生查詢病人的所有健康檢測記錄，讓醫生利用此功能查看病人過去的健康趨勢和治療進展，有利於醫生幫他們制定個性化的治療計劃和更瞭解病人的身體狀況。
 
 ### Website View
+醫生/病人登入介面：
+説明：用戶在登入介面時選擇自己的身份，輸入當初在註冊時候的名稱和密碼。若名稱和密碼都正確，就能成功登入。
 ![image](https://github.com/barrenshore/202302-Database/blob/main/Final_Project/final_project_group1/website%20view/1.jpg)
+![image](https://github.com/barrenshore/202302-Database/blob/main/Final_Project/final_project_group1/website%20view/6.jpg)
+
+醫生/病人註冊介面：
+説明：第一次使用此系統的用戶需要先進行註冊，醫生和病人的註冊要求的資料皆有：姓名、性別、生日、身份證字號、email、電話號碼、密碼。不同的是，醫生需要選取自己所屬的部門，而病人需要選取自己的血型，並輸入身高和體重。
+![image](https://github.com/barrenshore/202302-Database/blob/main/Final_Project/final_project_group1/website%20view/2.jpg)
+![image](https://github.com/barrenshore/202302-Database/blob/main/Final_Project/final_project_group1/website%20view/7.jpg)
+
+醫生/病人個人簡歷：
+説明：在醫生和病人個人簡歷部分，該介面顯示了所有用戶在註冊時所提供的資料。但是，醫生的個人簡歷中的部分多了所有看過的病人給的評價的平均分數。病人的個人簡歷中，還會有身高、體重和血型的部分。而簡歷的大頭貼是依照性別產出的。
+![image](https://github.com/barrenshore/202302-Database/blob/main/Final_Project/final_project_group1/website%20view/3.jpg)
+![image](https://github.com/barrenshore/202302-Database/blob/main/Final_Project/final_project_group1/website%20view/8.jpg)
+
+醫生新增看診記錄
+説明：醫生每次病人時，可以新增看診記錄，新增紀錄時需填入病人編號、看診日期、病人的疾病、看診費用和開給病人的藥物。
+![image](https://github.com/barrenshore/202302-Database/blob/main/Final_Project/final_project_group1/website%20view/4.jpg)
