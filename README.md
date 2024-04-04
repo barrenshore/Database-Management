@@ -13,14 +13,14 @@ Progress
 ===
 1. DB system architecture
 2. Relation model
-3. introduction to SQL
+3. Introduction to SQL
 4. ER model, EER, mapping
 5. File storage, indexing
 6. Normalization 
 
 Homework
 ===
-HW1: php(self-study)
+HW1: PHP(self-study)
 
 HW2: CV web page
 
@@ -38,8 +38,6 @@ Final score: A+
 
 Health Information Management System
 ===
-Final Project: Health Information Management System
-
-身體健康資料管理系統
+DB Final Project: 身體健康資料管理系統 Health Information Management System
 ### Motivation
-
+爲因應與陽明校區合作及外部醫院的產學合作，我們希望建立健康檢測資料庫來協助醫師更有效率的瞭解病人狀態
