@@ -57,3 +57,4 @@ DB Final Project: 身體健康資料管理系統 Health Information Management S
 説明 ：這個功能允許醫生查詢病人的所有健康檢測記錄，讓醫生利用此功能查看病人過去的健康趨勢和治療進展，有利於醫生幫他們制定個性化的治療計劃和更瞭解病人的身體狀況。
 
 ### Website View
+![image](https://github.com/barrenshore/202302-Database/blob/main/Final_Project/final_project_group1/website%20view/1.jpg)
