@@ -2,7 +2,7 @@ About this course
 ===
 Database Management 資料庫管理
 
-Second Semester, 2023
+2023 Spring
 
 Introduce the fundamental concepts necessary for designing, using, and 
 implementing database systems. The course stresses the fundamentals of database modeling and 
