@@ -1,6 +1,6 @@
 About this course
 ===
-Database Management 資料庫管理
+Database Management 資料庫管理, 劉敦仁
 
 2023 Spring
 
